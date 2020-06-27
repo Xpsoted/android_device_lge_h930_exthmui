@@ -1,0 +1,3 @@
+大家好，我是XP
+这是一个用于编译EXTHNUI的LG V30 dt，支持的安卓版本为安卓Q
+ten分支就是用于编译EXTHMUI的dt
